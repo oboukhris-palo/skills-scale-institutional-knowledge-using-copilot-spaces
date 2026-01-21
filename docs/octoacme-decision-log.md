@@ -49,4 +49,4 @@ Copy the table below and add entries as major decisions are made:
 
 - Reference key decisions in the [Risk Register](./octoacme-risks-and-communication.md) if they mitigate specific risks
 - Link decisions to [Release Notes](./octoacme-release-and-deployment.md) for traceability
-- Include decision review as part of [Retrospectives](./octoacme-retrospective-and-continuous-improvement.md)
+- Review decision outcomes during project retrospectives to inform future choices

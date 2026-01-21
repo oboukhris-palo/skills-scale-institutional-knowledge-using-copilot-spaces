@@ -47,7 +47,7 @@ Copy and paste this template to create your project's risk register:
 ### Stakeholder Update Checklist
 - [ ] Identify all stakeholder groups (engineering, product, sales, support, executives)
 - [ ] Determine communication frequency and preferred channels for each group
-- [ ] Prepare update using the Weekly Status Template (below)
+- [ ] Prepare update using the Weekly Status Template (see Communication Templates section)
 - [ ] Highlight key decisions from [Decision Log](./octoacme-decision-log.md) that affect stakeholders
 - [ ] Include risks from Risk Register that require visibility or escalation
 - [ ] Share via agreed channels (email, Slack, wiki page)
